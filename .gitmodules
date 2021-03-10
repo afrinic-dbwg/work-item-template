@@ -1,3 +1,0 @@
-[submodule "vendor/document-qa-tooling"]
-	path = vendor/document-qa-tooling
-	url = https://github.com/afrinic-dbwg/document-qa-tooling.git
