@@ -18,11 +18,11 @@ in order to begin work:
 2.  Replace the place-holder text in the `## Background`, `## Scope` and
     `## Summary` sections of this document with the necessary details.
 3.  Add the initial drafts of any documents relating to the work item to the
-    repo.
+    repository.
     Markdown is the preferred format for non-code documents.
     Markdown documents (including this one) must have the `.md` file extension
     and conform to the
-    [WG styleguide](https://github.com/afrinic-dbwg/document-qa/blob/master/markdown-style/style-guide.md)
+    [WG style-guide](https://github.com/afrinic-dbwg/document-qa/blob/master/markdown-style/style-guide.md)
 4.  Delete these usage instructions!
 
 ## Background
@@ -49,7 +49,7 @@ in order to begin work:
 > Describe the nature of the proposed solution that this work item offers.
 >
 > A suitably knowledgeable audience should be assumed, so avoid setting out
-> the pre-requisite technical details at length. Prefer to link to external
+> the prerequisite technical details at length. Prefer to link to external
 > resources if necessary.
 >
 > Ideally, a qualified reader should understand the high-level details of the
