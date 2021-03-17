@@ -31,7 +31,7 @@ in order to begin work:
 > work item.
 >
 > This should be sufficient to give a knowledgeable reader enough background
-> to contextualise the remainder of the document.
+> to contextualize the remainder of the document.
 >
 > Prefer linking to external resources (such as mailing list threads) over
 > attempting an exhaustive technical description here.
