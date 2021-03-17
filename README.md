@@ -22,7 +22,7 @@ in order to begin work:
     Markdown is the preferred format for non-code documents.
     Markdown documents (including this one) must have the `.md` file extension
     and conform to the
-    [WG style-guide](https://github.com/afrinic-dbwg/document-qa/blob/master/markdown-style/style-guide.md)
+    [WG style-guide](https://github.com/afrinic-dbwg/document-qa/blob/master/style-guide.md)
 4.  Delete these usage instructions!
 
 ## Background
